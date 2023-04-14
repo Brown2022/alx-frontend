@@ -186,13 +186,64 @@ Resources
 
 <b>Tables</b>
 Resources
-table: The Table element - HTML: Hypertext Markup Language | MDN
-thead: The Table Head element - HTML: Hypertext Markup Language | MDN
-tbody: The Table Body element - HTML: Hypertext Markup Language | MDN
-tfoot: The Table Foot element - HTML: Hypertext Markup Language | MDN
-th - HTML: Hypertext Markup Language | MDN
-tr: The Table Row element - HTML: Hypertext Markup Language | MDN
-td: The Table Data Cell element - HTML: Hypertext Markup Language | MDN
+- [table: The Table element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+- [thead: The Table Head element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
+- [tbody: The Table Body element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
+- [tfoot: The Table Foot element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
+- [th - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
+- [tr: The Table Row element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
+- [td: The Table Data Cell element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
 
 
+<b>details tag</b>
+Resources
+- [details: The Details disclosure element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- [summary: The Disclosure Summary element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+- [Quick Reminder that Details/Summary is the Easiest Way Ever to Make an Accordion | CSS-Tricks](https://css-tricks.com/quick-reminder-that-details-summary-is-the-easiest-way-ever-to-make-an-accordion/)
 
+
+<b>Image</b>
+
+|<b>Type</b>|<b>Self-closing</b>|
+---------------------------------
+|inline     |yes                |
+
+Resources
+- [img: The Image Embed element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+- [Essential Image](https://web.dev/fast/#optimize-your-images)
+
+<b>Placeholder generators</b>
+- [https://placebear.com/](https://placebear.com/)
+- [https://picsum.photos/](https://picsum.photos/)
+- [http://placehold.it/](https://placeholder.com/)
+- [https://www.placecage.com/](https://www.placecage.com/)
+
+
+<b>Image formats</b>
+
+- [Support image format](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#supported_image_formats)
+- [JPEG, GIF, PNG OR SVG - Which should You use?](https://dev.to/sarah_chima/jpeg-gif-png-or-svg---which-should-i-use-1o8o)
+- [SVG vs PNG vs JPG: Image Format Pros & Cons | Design Shack](https://designshack.net/articles/graphics/svg-vs-png-vs-jpg/)
+- [SVGOMG - SVGO’s Missing GUI](https://jakearchibald.github.io/svgomg/)
+
+<b>Picture</b>
+Resources
+- [picture: The Picture element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+- [Bye raster, hello vector: 3 ways to use SVG easier · Devbridge](https://www.devbridge.com/articles/bye-raster-hello-vector-3-ways-to-use-svg-easier-1/)
+
+<b>video tag</b>
+Resources
+- [video: The Video Embed element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [Media formats for HTML audio and video](https://developer.mozilla.org/en-US/docs/Web/Media/Formats)
+- [Can I use… video](https://caniuse.com/?search=video)
+
+<b>audio tag</b>
+Resources
+- [audio: The Embed Audio element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+- [Can I use… audio](https://caniuse.com/?search=audio)
+
+
+<b>iframe tag</b>
+Resources
+- [iframe: The Inline Frame element - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+- [3 Reasons You Should Never Use Iframes](https://ostraining.com/blog/webdesign/against-using-iframes/)
